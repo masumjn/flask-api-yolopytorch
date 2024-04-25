@@ -1,0 +1,7 @@
+ultralytics
+flask
+waitress
+pillow
+Flask_Cors
+Werkzeug
+pybase64
