@@ -9,4 +9,3 @@ opencv-python
 skia-python
 stepng
 ffmpeg
-PyDonno
