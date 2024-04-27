@@ -7,5 +7,4 @@ Werkzeug
 pybase64
 opencv-python
 skia-python
-stepng
-ffmpeg
+libgl
