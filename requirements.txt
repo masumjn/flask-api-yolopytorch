@@ -6,5 +6,5 @@ Flask_Cors
 Werkzeug
 pybase64
 opencv-python
-opencv-python-headless
 skia-python
+libgl1-mesa-glx
