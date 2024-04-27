@@ -7,3 +7,4 @@ Werkzeug
 pybase64
 opencv-python
 opencv-python-headless
+skia-python
