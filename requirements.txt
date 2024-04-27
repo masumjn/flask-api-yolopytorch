@@ -7,4 +7,6 @@ Werkzeug
 pybase64
 opencv-python
 skia-python
-libgl1-mesa-glx
+stepng
+ffmpeg
+PyDonno
