@@ -5,4 +5,4 @@ pillow
 Flask_Cors
 Werkzeug
 pybase64
-libgl1
+lib
