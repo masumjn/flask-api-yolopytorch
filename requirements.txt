@@ -6,3 +6,4 @@ Flask_Cors
 Werkzeug
 pybase64
 PyOpenGL
+opencv-python-headless
