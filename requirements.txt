@@ -6,5 +6,3 @@ Flask_Cors
 Werkzeug
 pybase64
 opencv-python
-skia-python
-
