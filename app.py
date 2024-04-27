@@ -4,7 +4,7 @@ from waitress import serve
 from PIL import Image
 from flask_cors import CORS
 import os
-from random2 import randint
+# from random2 import randint
 from werkzeug.utils import secure_filename
 import cv2
 import numpy as np
